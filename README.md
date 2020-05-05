@@ -13,12 +13,14 @@ My submissions to Hive remote coding challenges/contests. Trying to fix the KOs 
 
 **Chall04:** KO (incomplete work)
 
-**Chall05:** -
+**Chall07:** -
+
+**Chall08:** -
 
 ## Languages:
 
-**C:** 00 / 02
+**C:** 00 / 02 / 08
 
 **Go:** 03 /
 
-**Python:** 01 / 04
+**Python:** 01 / 04 / 07
